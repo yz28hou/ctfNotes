@@ -8,7 +8,7 @@
 strings 17010.pcapng | grep -i ctf
 ```
 
-![1566041759233](images\SSCTF-2019\1566041759233.png)
+![1566041759233](images/SSCTF-2019/1566041759233.png)
 
 ### 流量包 300分
 
