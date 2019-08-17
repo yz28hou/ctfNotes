@@ -64,7 +64,7 @@ def crack():
                     txt = chr(a) + chr(b) + chr(c)
                     crc = binascii.crc32(txt)
                     if (crc & 0xFFFFFFFF) in crcs:
-                        print crc, txt
+                        print hex(crc & 0xFFFFFFFF), txt
 
 if __name__ == "__main__":
     crack()
