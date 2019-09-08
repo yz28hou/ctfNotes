@@ -125,7 +125,7 @@ JRGFYS2ZMR6C47D6FAWS6KLZPIWC27L2FV4SUKD5F4VS4JT2PYVXY6JJFUXHYYQ=
 
 hint：区块链 钱包
 
-告辞
+安装一个钱包客户端，输入如下助记词并可以进入钱包回去到私钥。
 
 ![1](images/SSCTF-2019/1.jpg)
 
